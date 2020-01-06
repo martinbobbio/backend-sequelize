@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://oriechinedu.com/static/4ded048539ebc4fabfe789694ca54bef/e9c7b/preview.png" width="200">
+  <img src="https://rosolutions.com.mx/blog/wp-content/uploads/2018/08/node-js-736399_960_720-740x406.png" width="400">
   <br><br>
   Backend sequelize
   <br>
